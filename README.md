@@ -1,6 +1,8 @@
-# A React XO Tutorial
+# A React X/O (Tic Tac Toe) game Tutorial
 
-> TODO: https://ru.reactjs.org/tutorial/tutorial.html#adding-time-travel
+[Tic Tac Toe (Rus)](https://ru.reactjs.org/tutorial/tutorial.html).
+
+It was done step by step.
 
 ## Default Readme
 
