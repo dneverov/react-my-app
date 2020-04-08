@@ -1,3 +1,9 @@
+# A React XO Tutorial
+
+> TODO: https://ru.reactjs.org/tutorial/tutorial.html#adding-time-travel
+
+## Default Readme
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
